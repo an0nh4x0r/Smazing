@@ -1,0 +1,19 @@
+{
+  "name": "smazing",
+  "version": "1.0.0",
+  "description": "Dashboard in Polymer &amp; Express(Node.js web application framework) !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/an0nh4x0r/smazing.git"
+  },
+  "author": "an0nh4x0r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/an0nh4x0r/smazing/issues"
+  },
+  "homepage": "https://github.com/an0nh4x0r/smazing#readme"
+}
