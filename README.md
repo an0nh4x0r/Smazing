@@ -1,2 +1,2 @@
 # Smazing
-Dashboard in Polymer &amp; Nodejs !
+Dashboard in Polymer &amp; Express(Node.js web application framework) !
