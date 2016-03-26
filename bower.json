@@ -1,0 +1,21 @@
+{
+  "name": "smazing",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.3"
+  },
+  "description": "Dashboard in Polymer &amp; Express(Node.js web application framework) !",
+  "main": "index.js",
+  "authors": [
+    "an0nh4x0r"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/an0nh4x0r/smazing",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
